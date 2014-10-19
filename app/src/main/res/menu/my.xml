@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity">
+    <item
+        android:id="@+id/action_horizontal_list_view"
+        android:title="HorizontalListView"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_vertical_list_view"
+        android:title="VerticalListView"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_horizontal_grid_view"
+        android:title="HorizontalGridView"
+        android:orderInCategory="100"
+        android:showAsAction="never" /> <item
+        android:id="@+id/action_vertical_grid_view"
+        android:title="VerticalGridView"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_horizontal_staggered_grid_view"
+        android:title="HorizontalStaggeredGridView"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_vertical_staggered_grid_view"
+        android:title="VerticalStaggeredGridView"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
